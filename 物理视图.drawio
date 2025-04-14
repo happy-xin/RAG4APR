@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.12">
+  <diagram name="第 1 页" id="lk4YY7itc-QHqMsu6-zK">
+    <mxGraphModel dx="569" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="40" width="390" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-2" value="物理视图" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillOpacity=100;" vertex="1" parent="BA9d9Z4KovJgcBnni8Xz-9">
+          <mxGeometry width="390" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-3" value="测试人员设备" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillOpacity=100;" vertex="1" parent="BA9d9Z4KovJgcBnni8Xz-9">
+          <mxGeometry x="20" y="45" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-4" value="IDEA Platform" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillOpacity=100;" vertex="1" parent="BA9d9Z4KovJgcBnni8Xz-9">
+          <mxGeometry x="30" y="85" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-5" value="服务器" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillOpacity=100;" vertex="1" parent="BA9d9Z4KovJgcBnni8Xz-9">
+          <mxGeometry x="230" y="85" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.12;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;fillOpacity=100;" edge="1" parent="BA9d9Z4KovJgcBnni8Xz-9" source="BA9d9Z4KovJgcBnni8Xz-1" target="BA9d9Z4KovJgcBnni8Xz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-8" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillOpacity=100;" vertex="1" connectable="0" parent="BA9d9Z4KovJgcBnni8Xz-7">
+          <mxGeometry x="0.0387" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-1" value="插件端" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fillOpacity=100;" vertex="1" parent="BA9d9Z4KovJgcBnni8Xz-9">
+          <mxGeometry x="50" y="125" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BA9d9Z4KovJgcBnni8Xz-6" value="服务端" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fillOpacity=100;" vertex="1" parent="BA9d9Z4KovJgcBnni8Xz-9">
+          <mxGeometry x="250" y="125" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
